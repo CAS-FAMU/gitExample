@@ -1,4 +1,6 @@
-#Introduction into terminal, working with git, testing compiling
+#Data workshop
+
+Introduction into terminal, working with git, testing some basic compiling with GCC
 
 * [course wiki page](http://cas.famu.cz/wiki/index.php/%3D%3D%3D_Datov%C3%A9_struktury_lidsk%C3%BDmi_smysly_%3D%3D%3D )
 
