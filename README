@@ -1,16 +1,14 @@
-<<<<<<< HEAD
-AHHHHHHHH
-=======
-https://github.com/kennethreitz/osx-gcc-installer
+==Introduction into terminal, working with git, testing compiling==
+
+*[http://cas.famu.cz/wiki/index.php/%3D%3D%3D_Datov%C3%A9_struktury_lidsk%C3%BDmi_smysly_%3D%3D%3D wiki page]
 
 
->>>>>>> ae3ceaebbb518199d60ad487d86d18c4080225d1
-dhssjdhajhdjaasdjandwjhello git
+there are some useful links from second session:
 
-I am adding some changes
-<<<<<<< HEAD
-This is another changes
-=======
+*[http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line introduction into terminal]
+*[https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf basic git commands]
+*[https://desktop.github.com/ git GUI (graphical user interface)]
+*[https://github.com/CAS-FAMU/gitExample our testing repository @ CAS git]
+*[https://github.com/kennethreitz/osx-gcc-installer GCC (C compiler) for writing hello world program (and more!)]
 
-add one more line after cloning
->>>>>>> ea6841e1e52276175e31a2c2522446f88c0ceab6
+===FEEL FREE TO UPDATE THIS DOCUMENT===
