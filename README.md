@@ -10,3 +10,6 @@
 * [ our testing repository @ CAS git](https://github.com/CAS-FAMU/gitExample)
 * [GCC (C compiler) for writing hello world program (and more!)](https://github.com/kennethreitz/osx-gcc-installer)
 
+ask for realtime help:
+
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/CAS-FAMU)
