@@ -1,0 +1,6 @@
+#N canvas 368 258 450 300 10;
+#X obj 119 79 inlet;
+#X obj 119 183 outlet;
+#X msg 119 153 this will be output of abstraction;
+#X connect 0 0 2 0;
+#X connect 2 0 1 0;

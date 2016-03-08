@@ -1,0 +1,8 @@
+#N canvas 585 282 450 300 10;
+#X obj 105 127 abstraction;
+#X obj 105 91 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X obj 105 184 print;
+#X text 135 90 click me;
+#X connect 0 0 2 0;
+#X connect 1 0 0 0;
